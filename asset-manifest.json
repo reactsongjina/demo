@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactpofol/static/css/main.2ab01454.css",
+    "main.js": "/reactpofol/static/js/main.1371d870.js",
+    "static/js/787.05671433.chunk.js": "/reactpofol/static/js/787.05671433.chunk.js",
+    "index.html": "/reactpofol/index.html",
+    "main.2ab01454.css.map": "/reactpofol/static/css/main.2ab01454.css.map",
+    "main.1371d870.js.map": "/reactpofol/static/js/main.1371d870.js.map",
+    "787.05671433.chunk.js.map": "/reactpofol/static/js/787.05671433.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ab01454.css",
+    "static/js/main.1371d870.js"
+  ]
+}
